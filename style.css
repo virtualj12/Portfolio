@@ -1,0 +1,167 @@
+<style>
+
+        /* HOME */
+        #homebg {
+            background-image: url(https://images.unsplash.com/photo-1510519138101-570d1dca3d66?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1147&q=80);
+            height: 60vh;
+            box-sizing: border-box;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+
+
+        }
+
+        /* NAVBAR */
+        .navbar .nav-link {
+            color: #fff !important;
+            font-family: 'Kanit', sans-serif;
+            padding: 0%;
+        }
+
+        /* HOME1 */
+        .font-image-text {
+            color: white;
+            font-family: 'Caudex', serif;
+            box-sizing: border-box;
+            margin: 0;
+
+
+            
+        }
+        .font-image-text-small {
+            color: white;
+            font-family: 'Caudex', serif;
+            box-sizing: border-box;
+            margin: 0;
+
+        }
+
+        .text-home {
+            text-align:justify;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            white-space: nowrap;
+        }
+
+        #box {
+            display: flex;
+        }
+
+        /* ABOUT */
+
+        .about-bg {
+            background-color: #EFF0EE;
+        }
+
+        .about {
+            font-family: 'Playfair Display', serif;
+            color: #5E6D55;
+            font-size: 7vh;
+            margin: 7vh 15vh 0vh;
+            max-height: 100vh;
+            position: relative;
+
+        }
+
+        .my-bg {
+            font-family: 'Raleway', sans-serif;
+            color: #5E6D55;
+            margin: 70px;
+            margin: 1vh 15vh 0vh;
+            position: relative;
+        }
+
+        .about-info {
+            font-family: 'Raleway', sans-serif;
+            font-size: 21px;
+            font-weight: 400;
+            line-height: 42px;
+            padding: 4vh 25vh 3vh 15vh;
+            position: relative;
+            text-align: justify;
+        }
+
+        #about {
+
+        }
+
+        /* EDUCATION AND EXPERIENCE */
+        .ee {
+            font-family: 'Playfair Display', serif;
+            color: #5E6D55;
+            font-size: 6vh;
+            position: relative;
+            text-align: justify;
+        }
+
+        .ee-sub {
+            font-family: 'Raleway', sans-serif;
+            color: #5E6D55;
+            position: relative;
+            margin: 0;
+            
+        }
+
+        .ee-info-year {
+            font-family: 'Caudex', serif;
+            color: black;
+        }
+
+        .ee-it {
+            font-family: 'Caudex', serif;
+            margin: 0;
+        }
+
+        #ee {
+            padding: 5vh 18vh;
+        }
+
+        /* HR */
+        .hr-style {
+            border: 0; 
+            height: 2px; 
+            background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+            background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+            background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+            background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+            rgba(0,0,0,0));
+        }
+
+        /* SKILLS AND LANGUAGE */
+        #sl {
+            padding: 5vh 18vh;
+        }
+
+        .s-title {
+            font-family: 'Playfair Display', serif;
+            color: #5E6D55;
+            font-size: 6vh;
+            position: relative;
+            text-align: justify;
+        }
+
+        /* PROGRESS BAR */
+        .pg-label {
+            font-family: 'Raleway', sans-serif;
+            color: #5E6D55;
+            font-size: 2.5vh;
+
+        }
+
+
+        /* award and interest */
+        #ai {
+            padding: 5vh 18vh;
+        }
+
+
+
+
+
+    </style>
+    
